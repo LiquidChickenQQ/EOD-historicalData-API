@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eodhistoricaldata-api": "^1.0.8",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiquidChickenQQ/EOD-historicalData-API.git"
   },
   "scripts": {
     "start": "react-scripts start",
